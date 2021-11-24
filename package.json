@@ -1,0 +1,16 @@
+{
+  "name": "emissaovenda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "onildo_lima",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.2.0",
+    "xlsx": "^0.17.4"
+  }
+}
